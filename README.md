@@ -1,7 +1,8 @@
 # Atividade Clock e temporizadores - One Shot
 ### Atividade 2 - U4C5 - Embarca Tech 
 Atividade relacionada ao capítulo 5 da unidade 4 do programa de Capacitação Cepedi - Embarca Tech
-Esse programa tem como objetivo principal aplicar tecnicas de controle de clock e temporização em microcontroladores utilizando a placa BitDogLab, controlando leds em uma temporização a partir do acionamento de um botão que aciona um sequência de leds.
+
+O programa desenvolvido neste repositório tem como objetivo principal aplicar tecnicas de controle de clock e temporização em microcontroladores utilizando a placa BitDogLab, controlando leds em uma temporização a partir do acionamento de um botão que aciona um sequência de leds.
 
 # Requisitos e Instruções de Execução
  Para a execução desse código serão necessários os seguintes equipamentos equipamentos:
