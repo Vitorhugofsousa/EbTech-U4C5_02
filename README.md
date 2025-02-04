@@ -30,6 +30,7 @@ O programa desenvolvido neste repositório tem como objetivo principal aplicar t
 * Faça a compilação do projeto
 * Selecione o arquivo __diagram.json__
 * Encontre e selecione o botão __"Run"__ no canto superior esquerdo
+  
  Em seguida o código entrará no modo de simulação e poderá ver o programa funcionando.
 
 #### Simulação online
