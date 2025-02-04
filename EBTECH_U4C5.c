@@ -34,10 +34,11 @@ int64_t alarm_callback(alarm_id_t id, void *user_data) {
         case 2:
         gpio_put(LED_PIN_RED, 1);
         break;
+        default:
+        break;
 
     }
-
-    estado_semaforo = (estado_semaforo + 1) % 3; 
+        estado_semaforo = (estado_semaforo + 1) % 4;    
 
 
 if (estado_semaforo == 0) { 
