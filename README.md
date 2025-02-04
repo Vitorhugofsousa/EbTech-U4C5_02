@@ -24,15 +24,18 @@ Esse programa tem como objetivo principal aplicar tecnicas de controle de clock 
 #### Para realização da simulação
 * Clone o repositório
   ```bash
-   git clone https://github.com/SEU_REPOSITORI.git](https://github.com/Vitorhugofsousa/EbTech-U4C5_02.git
+   git clone https://github.com/Vitorhugofsousa/EbTech-U4C5_02.git
 
 * Faça a compilação do projeto
 * Selecione o arquivo __diagram.json__
 * Encontre e selecione o botão __"Run"__ no canto superior esquerdo
  Em seguida o código entrará no modo de simulação e poderá ver o programa funcionando.
 
- ###### Caso realize a execução do programa diretamente na placa de desenvolvimento BitDogLab, ao pressionar o botão A (botão esquerdo) ela exibirá o led principal primeiramente na cor branca (devido a mistura das três cores: Vermelho, Azul e verde) em seguida exibirá a cor roxa (correspondente a mistura das cores Vermelho e Azul) e em seguida exibirá somente a led vermelha. 
-###### Cada uma dessas é cores é exibida por 3 segundos em sequência até que o programa finalize, não podendo ser interrompida ou reiniciada até que seja finalizada.
+#### Simulação online
+_Ao clicar [aqui](https://wokwi.com/projects/421589836689892353) você poderá visualizar a simulação completa do meu código através do Wokwi Web._
+
+ ###### _Caso realize a execução do programa diretamente na placa de desenvolvimento BitDogLab, ao pressionar o botão A (botão esquerdo) ela exibirá o led principal primeiramente na cor branca (devido a mistura das três cores: Vermelho, Azul e verde) em seguida exibirá a cor roxa (correspondente a mistura das cores Vermelho e Azul) e em seguida exibirá somente a led vermelha._
+###### _Cada uma dessas é cores é exibida por 3 segundos em sequência até que o programa finalize, não podendo ser interrompida ou reiniciada até que seja finalizada._
 
  # Contribuições
 <img src="one_shot.png">
