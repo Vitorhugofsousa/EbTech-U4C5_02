@@ -77,7 +77,7 @@ int main(){
                 alarm_callback(0, NULL);   //chamando a função de alarme
             }
     }
-sleep_ms(10);  //DEBOUNCE
+    sleep_ms(10);  //adiciona um pequeno atraso para evitar o uso excessivo da CPU
 }
 }
 
